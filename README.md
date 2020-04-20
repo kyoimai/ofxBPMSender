@@ -1,8 +1,8 @@
 # ofxBPMSender
 
 ### Feature
-*This is an addon that keeps sending the tempo that you tap.
-*It can be received by either button or keystroke.
+* This is an addon that keeps sending the tempo that you tap.
+* It can be received by either button or keystroke.
 
 ### How to
 ```
