@@ -18,7 +18,7 @@ void ofApp::setup(){
 void ofApp::update(){
   bpm.update();
   if(bpm.getBPM() > 1 && bpm.getAttack()){
-    ofLogNotice() << "bpm : " << ""bpm.getBPM() << " bool : " << bpm.getAttack();
+    ofLogNotice() << "bpm : " << bpm.getBPM() << " bool : " << bpm.getAttack();
   }
 }
 
